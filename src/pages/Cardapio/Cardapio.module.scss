@@ -16,7 +16,7 @@
 
 .header {
   align-items: center;
-  background-image: url("/assets/cardapio/header.png");
+  background-image: url("../../assets/cardapio/header.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -32,7 +32,7 @@
     padding: 0px $padding-horizontal-md;
   }
   &__text {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 5rem;
     min-width: 400px;
     width: 40%;
@@ -63,4 +63,9 @@
     margin-bottom: 30px;
     width: 100%;
   }
+}
+
+.logo {
+  width: 20%;
+  margin-left: 50%;
 }

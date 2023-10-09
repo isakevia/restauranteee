@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "label": "Massas"
+        "label": "Bolos"
     },
     {
         "id": 2,
-        "label": "Carnes"
+        "label": "Brigadeiros gourmets"
     },
     {
         "id": 3,
-        "label": "Combos"
+        "label": "Cones trufados"
     },
     {
         "id": 4,
-        "label": "Veganos"
+        "label": "Trufas"
     }
     
 ]

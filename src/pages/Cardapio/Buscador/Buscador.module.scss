@@ -3,7 +3,7 @@
 
 .buscador {
   align-items: center;
-  background-color: $grey;
+  background-color: mediumpurple;
   border-radius: 5px;
   display: flex;
   gap: 18px;
@@ -15,14 +15,14 @@
     width: 100%;
   }
   input {
-    background-color: $grey;
+    background-color:mediumpurple;
     border: none;
     font-size: 1.5rem;
     font-weight: bold;
     outline: none;
     width: 100%;
     &::placeholder {
-      color: #4c4d5e;
+      color: #e3b4f5;
     }
   }
 }
